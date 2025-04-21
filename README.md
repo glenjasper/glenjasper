@@ -1,14 +1,14 @@
 <h1 align="center">👋 Hi there, I'm Glen Jasper</h1>
 
 <p align="center">
-  Bioinformata, apaixonado por ciência, dados e inovação colaborativa.
+  Bioinformatician passionate about science, data, and collaborative innovation.
 </p>
 
 ---
 
-- 🔭 Atualmente focado em projetos de bioinformática, redes ecológicas e genômica aplicada.
-- 🧪 Experiência com análise de dados metagenômicos, taxonomia microbiana e pipelines de processamento de dados.
-- 🌐 Desenvolvo soluções com **R**, **Python**, e outros.
+- 🔭 Currently focused on projects in bioinformatics, ecological networks, and applied genomics.
+- 🧪 Experienced in metagenomic data analysis, microbial taxonomy, and data processing pipelines.
+- 🌐 I develop solutions using **R**, **Python**, and other tools.
 
 ---
 
