@@ -24,16 +24,16 @@
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/glenjasper" target="_blank">
+  <a href="https://www.linkedin.com/in/glenjasper" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:glen.yupanqui@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://orcid.org/0000-0003-2062-5588" target="_blank">
+  <a href="https://orcid.org/0000-0003-2062-5588" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white">
   </a>
-  <a href="https://www.researchgate.net/profile/Glen-Yupanqui-Garcia" target="_blank">
+  <a href="https://www.researchgate.net/profile/Glen-Yupanqui-Garcia" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white">
   </a>
 </div>
