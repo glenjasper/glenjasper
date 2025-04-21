@@ -36,6 +36,9 @@
   <a href="https://www.researchgate.net/profile/Glen-Yupanqui-Garcia" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white">
   </a>
+  <a href="https://lattes.cnpq.br/1592533296156760" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Lattes-004D9D?style=for-the-badge&logo=google-scholar&logoColor=white">
+  </a>
 </div>
 
 ---
