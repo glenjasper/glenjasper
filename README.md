@@ -45,11 +45,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=glenjasper&theme=dracula" />
 </p>
-
-## 🧠 Nerd Quote of the Day
-
-## 🧠 Nerd Quote of the Day
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Code+is+like+humor.+When+you+have+to+explain+it,+it%27s+bad.;—+Cory+House&center=true&width=600&height=45&font=Fira%20Code&color=F7F7F7&background=2D2D2D&pause=1000" />
-</p>
