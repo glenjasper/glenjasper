@@ -58,8 +58,6 @@
   <img src="https://github.com/glenjasper/glenjasper/blob/output/github-contribution-grid-snake.svg">
 </div>
 
-![snake animation](https://github.com/glenjasper/glenjasper/blob/output/github-contribution-grid-snake2.svg)
-
 ## 🏆 GitHub Streaks
 
 <p align="center">
