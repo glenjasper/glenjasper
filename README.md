@@ -25,8 +25,8 @@
 
 <div align="center">
   <a href="https://github.com/glenjasper">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glenjasper&layout=compact&langs_count=16&theme=dracula"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=glenjasper&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=glenjasper&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues&cache_seconds=1800"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glenjasper&layout=compact&langs_count=16&theme=dracula&cache_seconds=1800"/>
   </a>
 </div>
 
