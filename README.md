@@ -55,7 +55,7 @@
 ## 🐍 Commits
 
 <div align="center">
-  <img src="https://github.com/glenjasper/glenjasper/blob/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/glenjasper/glenjasper/output/github-contribution-grid-snake.svg">
 </div>
 
 ## 🏆 GitHub Streaks
