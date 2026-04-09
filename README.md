@@ -48,7 +48,7 @@
 ## 📈 Research Profiles
 
 <p align="center">
-  <a href="https://scholar.google.com/">
+  <a href="https://scholar.google.com/citations?user=KWNoYBwAAAAJ">
     <img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=for-the-badge&logo=google-scholar">
   </a>
   <a href="https://orcid.org/0000-0003-2062-5588">
